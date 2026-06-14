@@ -17,10 +17,5 @@ npm install
 npm run dev
 ```
 
-3. Edit `.env` if your backend is not at http://localhost:8080/api
 
-Notes:
-- The frontend expects backend APIs under /api (e.g., POST /api/user/login)
-- Token is stored in localStorage as `token`
-- Simple styling; you can integrate Element Plus or Ant Design Vue by installing their packages and replacing components
 
