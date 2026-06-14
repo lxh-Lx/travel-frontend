@@ -7,7 +7,7 @@ Getting started:
 1. Install dependencies:
 
 ```powershell
-cd C:\Users\13672\IdeaProjects\Travel\frontend
+
 npm install
 ```
 
